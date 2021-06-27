@@ -1,4 +1,4 @@
-## Dockerfile - Keycloak
+## Dockerfile - Keycloak - M1 Compatible
 
 [Keycloak](https://www.keycloak.org/)
 
